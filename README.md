@@ -1,3 +1,5 @@
 # Face-Detection
  *It is a basic face detection Code*
- *IN that code you can use your basic Starting Point*
+
+ * If you want to start you can start with this code it is a basic Starting Point*
+ * You will learn something new
